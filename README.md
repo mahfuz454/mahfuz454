@@ -1,7 +1,7 @@
 ## Hi there 👋
 This is Mahfuz
 Welcome to my GitHub Profile
-- 🤔 I’m looking for help with Data Science
+-     I’m looking for help with Data Science
 - 💬 Ask me about Data Science
 - 📫 How to reach me: EMAIL LINKEDIN
 <!--
