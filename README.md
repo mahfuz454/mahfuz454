@@ -1,16 +1,13 @@
-## Hi there 👋
-This is Mahfuz
-Welcome to my GitHub Profile
--     I’m looking for help with Data Science
-- 💬 Ask me about Data Science
-- 📫 How to reach me: EMAIL LINKEDIN
-<!--
-**mahfuz454/mahfuz454** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! 👋
 
-Here are some ideas to get you started:
+Driven by a passion for both mathematics and software development, I love transforming abstract concepts into practical solutions through code. My background in mathematical modeling and algorithmic thinking empowers me to tackle challenging problems and explore new technologies. Excited to keep learning, build innovative projects, and collaborate with like-minded creators!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🧮 Mathematics major passionate about algorithms and optimization
+- 💻 Coding with Python, Java, and SQL
+- 🧠 Interested in data science, backend development, and mathematical problem solving
+- 🌱 Always learning and looking for new opportunities to grow
+
+Let's connect and build something amazing!
+
 
 
