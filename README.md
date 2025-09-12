@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-This is Mahfuz. Driven by a passion for both mathematics and software development, I love transforming abstract concepts into practical solutions through code. My background in mathematical modeling and algorithmic thinking empowers me to tackle challenging problems and explore new technologies. Excited to keep learning, build innovative projects, and collaborate with like-minded creators!
+This is Mahfuz. Driven by a passion both mathematics and software development, I love transforming abstract concepts into practical solutions through code. My background in mathematical modeling and algorithmic thinking empowers me to tackle challenging problems and explore new technologies. Excited to keep learning, build innovative projects, and collaborate with like-minded creators!
 
 - 🧮 Mathematics major passionate about algorithms and optimization
 - 💻 Coding with Python, Java, and SQL
